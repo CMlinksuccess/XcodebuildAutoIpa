@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>thinning</key>
+		<string>&lt;none&gt;</string>
+		<key>teamID</key>
+		<string>Demo Software Co., Ltd.</string>
+		<key>method</key>
+		<string>ad-hoc</string>
+		<key>compileBitcode</key>
+		<false/>
+		<key>uploadSymbols</key>
+		<true/>
+		<key>buildleID</key>
+		<string>www.buildleID</string>
+	</dict>
+</dict>
+</plist>
