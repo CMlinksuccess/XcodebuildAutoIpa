@@ -2,8 +2,8 @@
 iOS自动打包ipa及上传fir的python脚本
 <br>
 <br>
-###使用方法：
-'''Python
+### 使用方法：
+```Python
 #=======================设置参数区==========================
 #主路径
 mainPath0 = "/Users/mac/Desktop/自动打包/Demo"
@@ -24,5 +24,7 @@ plistPath = "/Users/mac/Desktop/自动打包/OptionsPlist.plist"
 '''
 isWorkSpace = False
 #=========================================================
-'''
+```
 
+效果图.<br>
+![](https://github.com/CMlinksuccess/XcodebuildAutoIpa/blob/master/xcodebuild%E8%87%AA%E5%8A%A8%E6%89%93%E5%8C%85/raw/image1.png)
